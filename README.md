@@ -51,5 +51,5 @@ A powerful and easy-to-use web-based tool to **extract, manage, filter, and open
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ultimate-link-opener.git
+   git clone https://github.com/Hs-2428/ultimate-link-opener.git
    cd ultimate-link-opener
